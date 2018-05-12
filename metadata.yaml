@@ -1,0 +1,28 @@
+_repo: Van-Toledo-naar-Granada--13-De-Aarde-en-haar-Volken-1906_14198
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dieulafoy, Jane
+    birthdate: 1851
+    deathdate: 1916
+    gutenberg_agent_id: '5280'
+    url: http://www.gutenberg.org/2009/agents/5280
+    wikipedia: http://fr.wikipedia.org/wiki/Jane_Dieulafoy
+description: ''
+gutenberg_bookshelf: De Aarde en haar Volken
+gutenberg_issued: '2004-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14198'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DP'
+- !lcsh 'Spain -- Description and travel'
+title: "Van Toledo naar Granada\r\nDe Aarde en haar Volken, 1906"
+url: http://www.gutenberg.org/ebooks/14198
